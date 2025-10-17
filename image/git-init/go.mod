@@ -1,8 +1,8 @@
 module github.com/tektoncd-catalog/git-clone/git-init
 
-go 1.22.3
+go 1.23
 
-toolchain go1.23.5
+toolchain go1.24.6
 
 require (
 	github.com/google/go-cmp v0.6.0
@@ -76,7 +76,7 @@ require (
 	k8s.io/kube-openapi v0.0.0-20231010175941-2dd684a91f00 // indirect
 	k8s.io/utils v0.0.0-20240102154912-e7106e64919e // indirect
 	knative.dev/pkg v0.0.0-20240416145024-0f34a8815650 // indirect
-	sigs.k8s.io/json v0.0.0-20221116044647-bc3834ca7abd // indirect
+	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/structured-merge-diff/v4 v4.4.1 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
