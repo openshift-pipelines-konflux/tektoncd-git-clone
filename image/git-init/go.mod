@@ -72,7 +72,7 @@ require (
 	k8s.io/api v0.29.13 // indirect
 	k8s.io/apimachinery v0.29.13 // indirect
 	k8s.io/client-go v0.29.13 // indirect
-	k8s.io/klog/v2 v2.120.1 // indirect
+	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20231010175941-2dd684a91f00 // indirect
 	k8s.io/utils v0.0.0-20240102154912-e7106e64919e // indirect
 	knative.dev/pkg v0.0.0-20240416145024-0f34a8815650 // indirect
