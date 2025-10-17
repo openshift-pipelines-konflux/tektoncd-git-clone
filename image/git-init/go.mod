@@ -2,7 +2,7 @@ module github.com/tektoncd-catalog/git-clone/git-init
 
 go 1.22.3
 
-toolchain go1.23.5
+toolchain go1.25.3
 
 require (
 	github.com/google/go-cmp v0.6.0
